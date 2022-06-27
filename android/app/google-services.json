@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "948210869927",
+    "firebase_url": "https://ev-driver-15ade-default-rtdb.firebaseio.com",
+    "project_id": "ev-driver-15ade",
+    "storage_bucket": "ev-driver-15ade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948210869927:android:6085409115b456bbb6dd82",
+        "android_client_info": {
+          "package_name": "com.shatansh.ev_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948210869927-r6pbcgcu8umrhfm7h9tpp2r9lp6kl96n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMN-cIq95Cvwx0NFGQ59YW1gn7ExsJojo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948210869927-r6pbcgcu8umrhfm7h9tpp2r9lp6kl96n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
